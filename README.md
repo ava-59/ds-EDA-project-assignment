@@ -1,6 +1,16 @@
-# ds-project-template
+# This repository contains my small EDA project.
+it is about house sale data in Seattle and what recommendations i give my client  'Jennifer Montgomery'.
 
-Template for creating ds simple projects
+## Contents
+
+- jupyternotebook "1_fetching_the_data" about how i got ted the data that was provided on a database
+- exported csv-file with the exported data from the database
+- a documented and commented jupyternotebook "EDA" that contains my code and my analytics and recommendations
+- a pdf-file  "EDA project powerpoint" that presents my findings in a condesed format for non technical clients
+- updated requirement.txt
+
+- for fetching the data from the database it is required to create a .env file
+
 
 ## Requirements
 
